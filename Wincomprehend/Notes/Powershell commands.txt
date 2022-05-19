@@ -1,0 +1,14 @@
+"commandline interfaces";
+
+"shell is the software running inside of a terminal that allows you to interact with the operating system";
+"you can run different shells on a terminal";
+"examples
+
+"Powershell"
+"zsh"
+"Bash"
+"fish"
+
+"in cmd type in Powershell / Node / Bash to enter various language environments"
+
+To start commands i need to do "python -m wincpy start" then the alphanumeric code in the terminal

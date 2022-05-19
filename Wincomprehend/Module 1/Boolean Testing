@@ -1,0 +1,17 @@
+frog = 0
+
+# if(not frog) :
+#     print("hello world")
+# else :
+#     print ("bye world")
+
+# print(len('hi') / float(True)) 
+
+# jackington = [True is False,True or False,not True,not False]
+
+# for item in jackington :
+#     print(item)
+
+
+
+
