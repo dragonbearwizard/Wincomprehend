@@ -20,8 +20,8 @@ print(report)
 # <scorer_name> scored in the <when_they_scored>th minute
 
 player = 'Ronald Koeman'
-first_name = player [player.find ('Ronald') : player.find (' ') ]
-last_name = player [player.find ('Koeman') : len (player)]
+first_name = player [:player.find (' ') ]
+last_name = player [player.find (' ') :]
 initial_D = first_name [0]
 name_short = initial_D + '. ' + last_name
 last_name_len = len(last_name)
